@@ -682,7 +682,7 @@ community_iteminfo = {
         -- Fafnir Helm
         identifiedDescriptionName = {
             "Reduce ACD by 10%",
-            "Increase damage of <SK>Dragon's Breath</> and <SK>Dragon's Water Breath</> by 20%",
+            "Increase damage of <SK>Dragon's Breath</> and <SK>Dragon's Water Breath</> by 30%",
             "Increase damage of <SK>Storm Blast</> by 30%",
             "Reduce FCT of Nosiege Rune by 100%<LB>",
             "If <SK>Lv. 5 Dragon Training</> is learned,",
@@ -720,11 +720,11 @@ community_iteminfo = {
             "@6",
             "<IND>Increase damage of <SK>Storm Blast</> by 20%<LB>",
             "@7",
-            "<IND>Increase damage of <SK>Dragon's Breath</> and <SK>Dragon's Water Breath</> by 30%<LB>",
+            "<IND>Increase damage of <SK>Dragon's Breath</> and <SK>Dragon's Water Breath</> by 50%<LB>",
             "@8",
             "<IND>Increase damage of <SK>Storm Blast</> by 20%<LB>",
             "@9",
-            "<IND>Increase damage of <SK>Dragon's Breath</> and <SK>Dragon's Water Breath</> by 50%<LB>",
+            "<IND>Increase damage of <SK>Dragon's Breath</> and <SK>Dragon's Water Breath</> by 70%<LB>",
             "Type: <EQ>Upper Headgear</>",
             "Defense: <EQ>10</>",
             "Weight: <EQ>50</>",
